@@ -8,15 +8,15 @@ Use this checklist to help track what you've done, are doing and need to do next
 
     [x] 📖 Read the command line article.
 
-    [ ] 💻 Complete the command line tutorial (macOS or Linux-specific).
+    [ x] 💻 Complete the command line tutorial (macOS or Linux-specific).
 
-    [ ] 📖 Look over cheatsheet (bookmark or print it out!).
+    [ x] 📖 Look over cheatsheet (bookmark or print it out!).
 
 ---
 
 ## 2. Git / Github
 
-    [ ] 💻 Check you've installed git.
+    [ x] 💻 Check you've installed git.
 
     [ ] 📹 Watch the 7-video playlist covering an intro to git and GitHub.
 
