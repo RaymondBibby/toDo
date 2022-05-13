@@ -20,9 +20,9 @@ Use this checklist to help track what you've done, are doing and need to do next
 
     [x] 📹 Watch the 7-video playlist covering an intro to git and GitHub.
 
-    [ ] 💻 Complete the GitHub Learning Lab course.
+    [x] 💻 Complete the GitHub Learning Lab course.
 
-    [ ] 💻 Fork and clone this repository.
+    [x] 💻 Fork and clone this repository.
 
 ---
 
