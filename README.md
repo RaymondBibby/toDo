@@ -28,7 +28,7 @@ Use this checklist to help track what you've done, are doing and need to do next
 
 ## 3. Basic Skills
 
-    [ ] 📖 Read about coding style in JavaScript.
+    [x] 📖 Read about coding style in JavaScript.
 
 ---
 
