@@ -34,15 +34,15 @@ Use this checklist to help track what you've done, are doing and need to do next
 
 ## 4. Challenges
 
-    [ ] 💻 Maths Challenges.
+    [x] 💻 Maths Challenges.
 
-    [ ] 💻 Conditional Logic Challenges.
+    [x] 💻 Conditional Logic Challenges.
 
-    [ ] 💻 Strings Challenges.
+    [x] 💻 Strings Challenges.
 
-    [ ] 💻 Arrays Challenges.
+    [x] 💻 Arrays Challenges.
 
-    [ ] 💻 Objects Challenges.
+    [x] 💻 Objects Challenges.
 
     Remember: do ALL the tests pass in the end?
 
