@@ -50,17 +50,17 @@ Use this checklist to help track what you've done, are doing and need to do next
 
 ## 5. Problem Solving
 
-    [ ] 📹 Watch the 5 videos by Michael Starbird.
+    [x] 📹 Watch the 5 videos by Michael Starbird.
 
-    [ ] 💻 Complete FreeCodeCamp's Algorithm Challenges.
+    [o] 💻 Complete FreeCodeCamp's Algorithm Challenges.
 
-    [ ] 💻 Complete the Errors Challenges.
+    [x] 💻 Complete the Errors Challenges.
 
 ---
 
 ## 6. What is JavaScript?
 
-    [ ] 📖 Read the Preface and Chapter 2 of Kyle Simpson's 'Get Started'.
+    [x] 📖 Read the Preface and Chapter 2 of Kyle Simpson's 'Get Started'.
 
     [ ] 📖 Read Paul Ford's article, 'What is Code?'.
 
