@@ -68,9 +68,9 @@ Use this checklist to help track what you've done, are doing and need to do next
 
 ## 7. Functional Programming
 
-    [ ] 📹 Watch Fun Fun Function's video on functional programming.
+    [x] 📹 Watch Fun Fun Function's video on functional programming.
 
-    [ ] 📹 Watch Fun Fun Function's video on map.
+    [x] 📹 Watch Fun Fun Function's video on map.
 
     [ ] 💻 Complete the Refactoring challenges.
 
