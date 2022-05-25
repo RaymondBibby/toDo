@@ -72,15 +72,15 @@ Use this checklist to help track what you've done, are doing and need to do next
 
     [x] 📹 Watch Fun Fun Function's video on map.
 
-    [ ] 💻 Complete the Refactoring challenges.
+    [x] 💻 Complete the Refactoring challenges.
 
 ---
 
 ## 8. Regular Expressions
 
-    [ ] 💻 Complete RegexOne tutorial.
+    [x] 💻 Complete RegexOne tutorial.
 
-    [ ] 💻 Play around with Regexr using our suggested matches.
+    [x] 💻 Play around with Regexr using our suggested matches.
 
 ---
 
