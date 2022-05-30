@@ -62,7 +62,7 @@ Use this checklist to help track what you've done, are doing and need to do next
 
     [x] 📖 Read the Preface and Chapter 2 of Kyle Simpson's 'Get Started'.
 
-    [ ] 📖 Read Paul Ford's article, 'What is Code?'.
+    [x] 📖 Read Paul Ford's article, 'What is Code?'.
 
 ---
 
@@ -86,4 +86,4 @@ Use this checklist to help track what you've done, are doing and need to do next
 
 ## 9. Advanced Challenges
 
-    [ ] 💻  Complete the Advanced Challenges.
+    [x] 💻  Complete the Advanced Challenges.
